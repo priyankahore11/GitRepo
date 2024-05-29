@@ -11,12 +11,13 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Hello");
         System.out.println("Good morning!");
-<<<<<<< HEAD
+
         System.out.println( "Hello World!" );
         System.out.println("Hello");
         System.out.println("Good morning!");
-=======
+
         System.out.println("fsfasd!");
->>>>>>> main
+        System.out.println("123456");
+
     }
 }
